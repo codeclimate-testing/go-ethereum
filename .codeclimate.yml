@@ -1,11 +1,5 @@
 engines:
   structure:
-    enabled: true
-    channel: "go-beta"
+    enabled: false
   duplication:
     enabled: true
-    channel: go-beta
-    config:
-      languages:
-        go:
-          mass_threshold: 30
